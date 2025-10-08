@@ -98,7 +98,9 @@
   _Highlights:_ Real-time forecasting dashboard, automated cloud pipelines on GCP.  
 
 ### 📈 Stats
-<p> <img src="https://github-readme-stats.vercel.app/api?username=tmc3221&show_icons=true" height="135" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmc3221&layout=compact" height="135" /> </p>
+<p> <img src="https://github-readme-stats-nine-black-47.vercel.app/api?username=tmc3221&count_private=true&show_icons=true" height="135" />
+<img src="https://github-readme-stats-nine-black-47.vercel.app/api/top-langs/?username=tmc3221&layout=compact&count_private=true" height="135" />
+ </p>
 
 ---
 
