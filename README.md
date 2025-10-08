@@ -90,7 +90,7 @@
 - **📊 Pro Football Intelligence** — NFL draft simulation engine forecasting 10,000 mock drafts using 25 years of data.  
   _Stack:_ XGBoost, Python, Spring Boot, Debian Server  
   _Highlights:_ 4.3-pick deviation vs. expert consensus, live mock draft web app.
-  [_Projections_](https://www.linkedin.com/posts/tristan-curtis-baabba304_nfldraft-sportsanalytics-machinelearning-activity-7321316818122412032-HLtD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE3GyTIBigrwvFS4fNENM3jBfNk8E0aIvjA) ·   [<img width="821" height="518" alt="WebApp Preview" src="https://github.com/user-attachments/assets/3db48ae3-78a3-4cf0-bbb3-c0e792dbf3bd" />](https://huddlebotai.com)
+  [_Projections_](https://www.linkedin.com/posts/tristan-curtis-baabba304_nfldraft-sportsanalytics-machinelearning-activity-7321316818122412032-HLtD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE3GyTIBigrwvFS4fNENM3jBfNk8E0aIvjA)
 
     
 - **💸 Fin Fusion Force** — AI-powered tax optimization tool integrating 50+ regional incentives for SMBs.  
