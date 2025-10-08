@@ -96,7 +96,6 @@
 - **💸 Fin Fusion Force** — AI-powered tax optimization tool integrating 50+ regional incentives for SMBs.  
   _Stack:_ FastAPI, Next.js, BigQuery, Vertex AI  
   _Highlights:_ Real-time forecasting dashboard, automated cloud pipelines on GCP.  
-  <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/acb173e8-9460-4d28-a717-2eff06be054a" />
 
 ### 📈 Stats
 <p> <img src="https://github-readme-stats.vercel.app/api?username=tmc3221&show_icons=true" height="135" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmc3221&layout=compact" height="135" /> </p>
