@@ -1,7 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hey, I'm Tristan 👋</h1>
 <p align="center">
-  💼 Previously @ Deutsche Bank
   Software Engineer • Systems & ML • Turning data into products
 </p>
 
@@ -25,10 +24,46 @@
 
 📊 Backed by scalable data pipelines, cloud automation, and production-grade APIs — built to evolve into the most intelligent fantasy tool on the web.
 
-### 🧰 Skills (auto)
+### 🧰 Skills
 <!-- SKILLS:START -->
-_Updating…_
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+  <!-- Frameworks & Libraries -->
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-EB5757?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+
+  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+
+  <!-- Data & Databases -->
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+</p>
 <!-- SKILLS:END -->
+
 
 ### 💼 Experience
 
@@ -64,10 +99,7 @@ _Updating…_
   <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/acb173e8-9460-4d28-a717-2eff06be054a" />
 
 ### 📈 Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tmc3221&show_icons=true" height="135" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmc3221&layout=compact" height="135" />
-</p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=tmc3221&show_icons=true" height="135" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmc3221&layout=compact" height="135" /> </p>
 
 ---
 
