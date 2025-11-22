@@ -92,8 +92,8 @@
   _Highlights:_ 4.3-pick deviation vs. expert consensus, live mock draft web app.
   [_Projections_](https://www.linkedin.com/posts/tristan-curtis-baabba304_nfldraft-sportsanalytics-machinelearning-activity-7321316818122412032-HLtD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE3GyTIBigrwvFS4fNENM3jBfNk8E0aIvjA)
 
-  - **🔧 BORD — C++ DSP Interpreter**
-A Scheme-inspired digital signal processing runtime supporting delay, gain, filtering, distortion, and a custom vocoder effect through C++ audio nodes.  
+- **🔧 BORD — C++ DSP Interpreter**
+  A Scheme-inspired digital signal processing runtime supporting delay, gain, filtering, distortion, and a custom vocoder effect through C++ audio nodes.  
 _Stack:_ C++, DSP, Runtime Systems  
 
     
