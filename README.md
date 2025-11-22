@@ -92,6 +92,10 @@
   _Highlights:_ 4.3-pick deviation vs. expert consensus, live mock draft web app.
   [_Projections_](https://www.linkedin.com/posts/tristan-curtis-baabba304_nfldraft-sportsanalytics-machinelearning-activity-7321316818122412032-HLtD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE3GyTIBigrwvFS4fNENM3jBfNk8E0aIvjA)
 
+  - **🔧 BORD — C++ DSP Interpreter**
+A Scheme-inspired digital signal processing runtime supporting delay, gain, filtering, distortion, and a custom vocoder effect through C++ audio nodes.  
+_Stack:_ C++, DSP, Runtime Systems  
+
     
 - **💸 Fin Fusion Force** — AI-powered tax optimization tool integrating 50+ regional incentives for SMBs.  
   _Stack:_ FastAPI, Next.js, BigQuery, Vertex AI  
@@ -104,4 +108,4 @@
 
 ---
 
-<sub>Last updated: 2025-11-17 07:31:19.495 UTC</sub>
+<sub>Last updated: 2025-11-22 07:31:19.495 UTC</sub>
