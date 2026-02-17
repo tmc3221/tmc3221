@@ -4,10 +4,14 @@
   Software Engineer • Systems & ML • Turning data into products
 </p>
 
+<p align="center">
+🏆 Hack_NCState 2026 Winner · 🏆 Best Use of Valkey API
+</p>
+
 <!-- Quick Links -->
 <p align="center">
   <a href="https://huddlebotai.com/">HuddleBot Fantasy</a> ·
-  <a href="https://www.linkedin.com/in/tristan-curtis-baabba304/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/tristan-curtis-baabba304/">LinkedIn</a>
 </p>
 
 ---
@@ -23,6 +27,15 @@
 💬 Includes a chatbot assistant for asking lineup questions, importing fantasy leagues, and generating personalized team insights.
 
 📊 Backed by scalable data pipelines, cloud automation, and production-grade APIs — built to evolve into the most intelligent fantasy tool on the web.
+
+---
+
+### 🏆 Awards & Recognition
+
+- 🥇 **1st Place Overall — Hack_NCState 2026** (96 competing teams)
+- 🥇 **Best Use of Valkey API — Hack_NCState 2026**
+
+---
 
 ### 🧰 Skills
 <!-- SKILLS:START -->
@@ -64,6 +77,7 @@
 </p>
 <!-- SKILLS:END -->
 
+---
 
 ### 💼 Experience
 
@@ -80,7 +94,15 @@
   _Stack:_ Spring Boot, HTML/CSS, Maven  
   _Impact:_ Reduced processing time 80%, cut reporting errors 25%.
 
+---
+
 ### 🗂️ Featured Projects
+
+- **🔐 Catphish — Hackathon-Winning Voice Authentication API**  
+  Voice-based identity verification middleware protecting platforms from AI voice cloning and social engineering attacks.  
+  _Stack:_ FastAPI, Valkey, Resemblyzer, Gemini API, Solana, Docker  
+  _Highlights:_ 1st Place overall & Best Use of Valkey API at Hack_NCState 2026; real-time authentication sessions via Valkey TTL; tamper-proof audit logging.  
+  [_Product Site_](https://catphish.vercel.app) · [_Devpost_](https://devpost.com/software/catphish-vw0qsi)
 
 - **🏈 HuddleBot (2023–Present)** — AI-driven fantasy football analytics platform using ML, ETL automation, and public injury APIs via Cloudflare Workers.  
   _Stack:_ Python, FastAPI, Cloudflare Workers, SQLite, React, CI/CD  
@@ -89,23 +111,24 @@
 
 - **📊 Pro Football Intelligence** — NFL draft simulation engine forecasting 10,000 mock drafts using 25 years of data.  
   _Stack:_ XGBoost, Python, Spring Boot, Debian Server  
-  _Highlights:_ 4.3-pick deviation vs. expert consensus, live mock draft web app.
+  _Highlights:_ 4.3-pick deviation vs. expert consensus, live mock draft web app.  
   [_Projections_](https://www.linkedin.com/posts/tristan-curtis-baabba304_nfldraft-sportsanalytics-machinelearning-activity-7321316818122412032-HLtD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE3GyTIBigrwvFS4fNENM3jBfNk8E0aIvjA)
 
-- **🔧 BORD — C++ DSP Interpreter**
-  A Scheme-inspired digital signal processing runtime supporting delay, gain, filtering, distortion, and a custom vocoder effect through C++ audio nodes.  
-_Stack:_ C++, DSP, Runtime Systems  
+- **🔧 BORD — C++ DSP Interpreter**  
+  Scheme-inspired DSP runtime supporting delay, gain, filtering, distortion, and custom vocoder nodes.  
+  _Stack:_ C++, DSP, Runtime Systems
 
-    
 - **💸 Fin Fusion Force** — AI-powered tax optimization tool integrating 50+ regional incentives for SMBs.  
   _Stack:_ FastAPI, Next.js, BigQuery, Vertex AI  
-  _Highlights:_ Real-time forecasting dashboard, automated cloud pipelines on GCP.  
+  _Highlights:_ Real-time forecasting dashboard with automated cloud pipelines.
+
+---
 
 ### 📈 Stats
 <p> 
 <img src="https://github-readme-stats-nine-black-47.vercel.app/api/top-langs/?username=tmc3221&layout=compact&count_private=true" height="135" />
- </p>
+</p>
 
 ---
 
-<sub>Last updated: 2026-02-16 08:01:10.080 UTC</sub>
+<sub>Last updated: 2026-02-16</sub>
