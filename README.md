@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-🏆 Hack_NCState 2026 Winner · 🏆 Best Use of Valkey API
+🏆 Hack_NCState 2026 Winner · 🏆 Best Use of Valkey API · 
+<a href="assets/technical-clarity-award.pdf">🏆 Microsoft Excellence in Technical Clarity in Applied AI</a>
 </p>
 
 <!-- Quick Links -->
